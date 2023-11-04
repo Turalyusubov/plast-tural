@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html {
+    overflow-x: hidden;
+}
+
+body {
+    font-family: 'Archivo', sans-serif;
+    overflow-x: hidden;
+}
+
+.hero-section {
+    background-image: url(./forest.png);
+}
+
+.active {
+    font-weight: bold;
+}
+
+.disable-scroll {
+    overflow: hidden;
+}
+
+/* For Webkit-based browsers (Chrome, Safari and Opera) */
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+}
+
+/* For IE, Edge and Firefox */
+.scrollbar-hide {
+    -ms-overflow-style: none;
+    /* IE and Edge */
+    scrollbar-width: none;
+    /* Firefox */
+}
+
+.slide-in {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    height: 100vh;
+    background: #090C06;
+    transform-origin: bottom;
+    z-index: 999;
+}
+
+.slide-out {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    height: 100vh;
+    background: #090C06;
+    transform-origin: top;
+    z-index: 999;
+}

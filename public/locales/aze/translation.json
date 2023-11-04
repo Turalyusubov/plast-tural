@@ -1,0 +1,85 @@
+{
+    "HomeHeadings": {
+        "WeBuy": {
+            "We": "Bİz",
+            "Buy": "Alırıq"
+        },
+        "OurProducts": {
+            "Our": "Bİzİm",
+            "Products": "Məhsullar"
+        },
+        "AboutUs": {
+            "About": "Haqqımızda",
+            "Us": "Məlumat"
+        },
+        "ContactUs": {
+            "Contact": "Bİzİmlə",
+            "Us": "Əlaqə"
+        }
+    },
+    "PageHeadings": {
+        "WeBuy": {
+            "mainhead": "Bİz Alırıq",
+            "subhead": "Alırıq"
+        },
+        "OurProducts": {
+            "mainhead": "Məhsullarımız"
+        },
+        "AboutUs": {
+            "mainhead": "Haqqımızda Məlumat",
+            "subhead": "Haqqımızda"
+        },
+        "ContactUs": {
+            "mainhead": "Bİzİmlə Əlaqə",
+            "subhead": "Əlaqə"
+        },
+        "Devices": {
+            "mainhead": "Cİhazlar"
+        },
+        "Search": "Axtar"
+    },
+    "Navbar": {
+        "Home": "Ana Səhİfə",
+        "WeBuy": "Alırıq",
+        "OurProducts": "Məhsullarımız",
+        "Devices": "Cİhazlar",
+        "AboutUs": "Haqqımızda",
+        "Contact": "Əlaqə"
+    },
+    "Hero": {
+        "Subhead": "Daha gözəl gələcək üçün",
+        "Mainhead": "Təbİətə atmayaq!"
+    },
+    "WeBuyProducts": {
+        "Papers": "Ağ vərəqlər (A4)",
+        "Newspapers": "Qəzetlər",
+        "Cardboards": "Karton kağızlar",
+        "Archive": "Arxiv",
+        "Mixed": "Qarışıq"
+    },
+    "ContactForm": {
+        "FullName": "Ad və Soyad",
+        "PhoneNumber": "Mobil nömrə",
+        "Message": "Mesajınız..."
+    },
+    "Footer": {
+        "Activity": "Fəaliyyətimiz",
+        "OurLocation": "Bizim Məkan",
+        "Contact": "Bizimlə Əlaqə",
+        "Location": "Bakı şəhəri, Fikrət Əmirov 24, Perron Gallery 2-ci mərtəbə.( 28 may metro stansiyasının yanı)",
+        "Copyright": "Bütün hüquqlar qorunur"
+    },
+    "Search": {
+        "BeforeSearch": "Axtaracağınız malın adını daxil edin",
+        "AfterSearch": "açar sözü üzrə axtarış nəticələri"
+    },
+    "Apply": "Müraciət et",
+    "ApplySent": "Müraciətiniz göndərildi!",
+    "Details": "Ətraflı Məlumat",
+    "Send": "Göndər",
+    "WhoAreWe": "Biz kimik",
+    "WhatWeDo": "Nə işlə məşğul oluruq",
+    "Chekhov": "Anton Çexov",
+    "Home": "Ana səhifə",
+    "InvalidData": "Məlumatları düzgün doldurun!"
+}

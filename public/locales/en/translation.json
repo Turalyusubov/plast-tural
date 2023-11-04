@@ -1,0 +1,85 @@
+{
+    "HomeHeadings": {
+        "WeBuy": {
+            "We": "We",
+            "Buy": "Buy"
+        },
+        "OurProducts": {
+            "Our": "Our",
+            "Products": "Products"
+        },
+        "AboutUs": {
+            "About": "About",
+            "Us": "Us"
+        },
+        "ContactUs": {
+            "Contact": "Contact",
+            "Us": "Us"
+        }
+    },
+    "PageHeadings": {
+        "WeBuy": {
+            "mainhead": "We Buy",
+            "subhead": "We Buy"
+        },
+        "OurProducts": {
+            "mainhead": "Our Products"
+        },
+        "AboutUs": {
+            "mainhead": "About Us",
+            "subhead": "About"
+        },
+        "ContactUs": {
+            "mainhead": "Contact Us",
+            "subhead": "Contact"
+        },
+        "Devices": {
+            "mainhead": "Devices"
+        },
+        "Search": "Search"
+    },
+    "Navbar": {
+        "Home": "Home",
+        "WeBuy": "We Buy",
+        "OurProducts": "Products",
+        "Devices": "Devices",
+        "AboutUs": "About",
+        "Contact": "Contact Us"
+    },
+    "Hero": {
+        "Subhead": "For a better future",
+        "Mainhead": "Don't throw to nature!"
+    },
+    "WeBuyProducts": {
+        "Papers": "Papers (A4)",
+        "Newspapers": "Newspapers",
+        "Cardboards": "Cardboards",
+        "Archive": "Archive",
+        "Mixed": "Mixed"
+    },
+    "ContactForm": {
+        "FullName": "Full name",
+        "PhoneNumber": "Phone number",
+        "Message": "Your message..."
+    },
+    "Footer": {
+        "Activity": "Our Activity",
+        "OurLocation": "Our Location",
+        "Contact": "Contact Us",
+        "Location": "Baku city, Fikret Amirov 24, Perron Gallery 2nd floor. (next to May 28 metro station)",
+        "Copyright": "All rights reserved"
+    },
+    "Search": {
+        "BeforeSearch": "Enter the name of the product you are looking for",
+        "AfterSearch": "Search results for"
+    },
+    "Apply": "Apply",
+    "ApplySent": "Your apply was sent!",
+    "Details": "Details",
+    "Send": "Send",
+    "WhoAreWe": "Who are we",
+    "WhatWeDo": "What we do",
+    "Chekhov": "Anton Chekhov",
+    "Home": "Home",
+    "InvalidData": "Fill the data form correctly!"
+}
