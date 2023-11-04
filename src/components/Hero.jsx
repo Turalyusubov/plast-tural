@@ -24,7 +24,6 @@ export default function Hero() {
                 <Reveal direction='down'>
                     <p className='text-lg mb-4 lg:mb-8'>{t("Hero.Subhead")}</p>
                 </Reveal>
-                <p>SALAM</p>
                 <Reveal direction='down'>
                     <h1 className='uppercase font-bold text-4xl lg:text-6xl mb-8 lg:mb-16'>{t("Hero.Mainhead")}</h1>
                 </Reveal>
